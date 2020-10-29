@@ -1,0 +1,8 @@
+*.h5
+*.pkl
+*.pt
+runs/
+.vscode/
+Sensorscope/
+.ipynb_checkpoints/
+data/
