@@ -89,7 +89,7 @@ if __name__ == "__main__":
     start_list = np.arange(1162393768,1178747998+day_second,day_second)
     epoch_length = 30
     # start_list = start_list[:3]
-    output = open('dict_list3_1.pkl','wb')
+    output = open('3_dict_list.pkl','wb')
 
 
 
