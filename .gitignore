@@ -6,3 +6,4 @@ runs/
 Sensorscope/
 .ipynb_checkpoints/
 data/
+*.pyc
