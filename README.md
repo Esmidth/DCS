@@ -9,3 +9,12 @@
 |4|4.ipynb|done|
 |5|5_tensor_prepare.ipynb|done|
 |6|6_DCS_GAN_example.ipynb|done|
+
+
+
+## Key Data Naming
+|name|description|
+|----|----|
+|df_sum|最原始数据，与txt集合数据无区别|
+|df_sub||
+
